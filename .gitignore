@@ -1,0 +1,9 @@
+
+\.idea/
+
+greetings\.txt
+node_modules/
+
+playground/notes\.json
+
+notes-data\.json

@@ -1,0 +1,13 @@
+{
+  "name": "note-app",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "https://github.com/jeremiahogutu/note-app.git",
+  "author": "Jeremiah",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "nodemon": "^1.18.4",
+    "yargs": "4.7.1"
+  }
+}
