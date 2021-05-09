@@ -6,7 +6,7 @@
   "author": "Jeremiah",
   "license": "MIT",
   "dependencies": {
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "nodemon": "^1.18.4",
     "yargs": "4.7.1",
     "yarn": "^1.10.1"
